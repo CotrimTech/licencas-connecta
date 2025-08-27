@@ -1,0 +1,12 @@
+{
+  "CONNECTA-CLINICA-2025-01-15-001-2025-02-15": {
+    "clinica": "CONNECTA",
+    "pc": "PC1-RECEPCAO",
+    "status": "ativa",
+    "validade": "2025-02-15",
+    "hardware_id": "abc123def456",
+    "ultima_verificacao": "2025-01-15T10:30:00Z",
+    "token_original": "CONNECTA-CLINICA-2025-01-15-001-2025-02-15",
+    "observacoes": "Licença mensal PC1 - Recepção Connecta CMAM"
+  }
+}
