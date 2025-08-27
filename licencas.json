@@ -8,5 +8,15 @@
     "ultima_verificacao": "2025-01-15T10:30:00Z",
     "token_original": "CONNECTA-CLINICA-2025-01-15-001-2025-02-15",
     "observacoes": "Licença mensal PC1 - Recepção Connecta CMAM"
+  },
+  "CONNECTA-CLINICA-2025-01-15-002-2025-02-15": {
+    "clinica": "CONNECTA",
+    "pc": "PC2-RECEPCAO",
+    "status": "ativa",
+    "validade": "2025-02-15",
+    "hardware_id": "xyz789uvw012",
+    "ultima_verificacao": "2025-01-15T10:30:00Z",
+    "token_original": "CONNECTA-CLINICA-2025-01-15-002-2025-02-15",
+    "observacoes": "Licença mensal PC2 - Recepção Connecta CMAM"
   }
 }
