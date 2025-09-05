@@ -1,12 +1,12 @@
 {
-  "FbF7R5cZkuRdzecGY+4PT9Is45psyfPpWWDZ0bg9fZPNAhGtCZ7t8XaE8GwW9tX6uo1A2P2BI8MMV0rW1cw=": {
+  "917ace5ffba704755a8d2fcdb3646698f6fe1a94009c26fc0dba9d8f9ef72acd": {
     "clinica": "CONNECTA",
-    "pc": "PC1-RECEPCAO",
+    "pc": "PC-PRINCIPAL",
     "status": "ativa",
-    "validade": "2025-09-08",
-    "hardware_id": "d82a2fbb974abf977bc5cd49c408abab",
-    "ultima_verificacao": "2025-08-27T03:19:36.570Z",
-    "token_original": "CONNECTA-2025-08-27-045-2025-12-31",
-    "observacoes": "Licença mensal PC1-RECEPCAO"
+    "validade": "2025-12-31",
+    "hardware_id": "917ace5ffba704755a8d2fcdb3646698f6fe1a94009c26fc0dba9d8f9ef72acd",
+    "ultima_verificacao": "2024-01-01T00:00:00.000Z",
+    "token_original": "CONNECTA-2024-2025",
+    "observacoes": "Licença PC Principal"
   }
 }
