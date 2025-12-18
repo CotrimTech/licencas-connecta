@@ -1,10 +1,10 @@
 {
-  "917ace5ffba704755a8d2fcdb3646698f6fe1a94009c26fc0dba9d8f9ef72acd": {
+  "fb08dc0575204ca948e8ce1e8f4831cbebab0276a08d9be3ee3fa03baaf707e0": {
     "clinica": "CONNECTA",
     "pc": "PC-PRINCIPAL",
     "status": "ativa",
     "validade": "2025-12-31",
-    "hardware_id": "917ace5ffba704755a8d2fcdb3646698f6fe1a94009c26fc0dba9d8f9ef72acd",
+    "hardware_id": "fb08dc0575204ca948e8ce1e8f4831cbebab0276a08d9be3ee3fa03baaf707e0",
     "ultima_verificacao": "2024-01-01T00:00:00.000Z",
     "token_original": "CONNECTA-2024-2025",
     "observacoes": "Licença PC Principal"
